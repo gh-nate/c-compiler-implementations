@@ -15,12 +15,14 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [C++](#c-1)
   * [Clojure](#clojure)
   * [Cython](#cython)
+  * [F#](#f)
   * [Go](#go)
   * [Haskell](#haskell)
   * [Jai](#jai)
   * [Java](#java)
   * [OCaml](#ocaml)
   * [Perl](#perl)
+  * [Purescript](#purescript)
   * [Python](#python)
   * [Rust](#rust)
 
@@ -75,6 +77,9 @@ For projects hosted elsewhere, use this format:
 
 * [romainducrocq/cube](https://github.com/romainducrocq/cube) - An early version of [romainducrocq/wheelcc](https://github.com/romainducrocq/wheelcc) that implements chapters 1 to 13, before switching the compiler implementation to C/C++. It will no longer receive updates.
 
+## F#
+* [pmd3d/clod--](https://github.com/pmd3d/clod--) - Runs on WSL2 Ubuntu Linux with gcc. No extra credit or optimizations. Dotnet 8 F# partial rewrite of the Ocaml reference as a LLM exercise, so nothing added currently.
+
 ## Go
 
 * [JusticeProject/Go-C-Compiler](https://github.com/JusticeProject/Go-C-Compiler) - Following the book closely. Runs on Linux. Finished Chapter 9. No extra credit features implemented (yet).
@@ -82,6 +87,7 @@ For projects hosted elsewhere, use this format:
 ## Haskell
 
 * [0xpantera/halcyon](https://github.com/0xpantera/halcyon) - Uses parser combinators for lexer and parser instead of regular expressions. Work in progress. Check out the project README for details on current functionality and progress.
+* [pmd3d/clodhask](https://github.com/pmd3d/clodhask) - Runs on Ubuntu Linux with gcc. No extra credit or optimizations. Partial rewrite of the Ocaml reference as a LLM exercise, so nothing added currently.
 
 ## Jai
 
@@ -108,6 +114,10 @@ For projects hosted elsewhere, use this format:
 ## Perl
 
 * [sir-galahad/adcc](https://github.com/sir-galahad/adcc) - C compiler in Perl, for Linux seemed like a good idea, Perl hashes make it quick to build complex data structures.
+
+## Purescript
+
+* [pmd3d/clodpurs](https://github.com/pmd3d/clodpurs) - Runs on Ubuntu Linux with gcc. No extra credit or optimizations. Purescript partial rewrite of the Ocaml reference as a LLM exercise, so nothing added currently.
 
 ## Python
 
